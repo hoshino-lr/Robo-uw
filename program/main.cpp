@@ -5,5 +5,6 @@
 int main()
 {
     std::cout<<"Robo_uw bigins" << std::endl;
+    test();
 }
 
